@@ -1,0 +1,386 @@
+{
+  "collected_at": "2026-09-20T21:04:02.327763+00:00",
+  "url": "https://store.steampowered.com/api/appdetails",
+  "params": {
+    "appids": 730,
+    "l": "portuguese"
+  },
+  "response": {
+    "730": {
+      "success": true,
+      "data": {
+        "type": "game",
+        "name": "Counter-Strike 2",
+        "steam_appid": 730,
+        "required_age": 0,
+        "is_free": true,
+        "dlc": [
+          2678630
+        ],
+        "detailed_description": "Ao longo de mais de duas décadas, o Counter‑Strike ofereceu uma experiência competitiva de elite, moldada por milhões de jogadores de todo o mundo. Agora, o próximo capítulo da história do CS está prestes a começar: Counter‑Strike 2.<br><br>O Counter‑Strike 2 é uma atualização gratuita para o CS:GO e representa o maior avanço técnico na história do Counter‑Strike. Criado no motor de jogo Source 2, o Counter‑Strike 2 é uma versão modernizada com renderização à base da física, comunicação em rede de ponta e ferramentas do Workshop melhoradas.<br><br>Para além da jogabilidade clássica centrada em objetivos que o Counter‑Strike deu a conhecer ao mundo em 1999, o Counter‑Strike 2 inclui:<br><br><ul class=\"bb_ul\"><li>Um novo Rating CS no modo Premier atualizado.<br></li><li>Tabelas de classificação globais e regionais.<br></li><li>Mapas melhorados e remodelados.<br></li><li>Granadas de fumo dinâmico, capazes de mudar por completo o rumo das partidas.<br></li><li>Jogabilidade independente do tickrate do servidor.<br></li><li>Sons e efeitos visuais renovados.<br></li><li>Todos os itens do CS:GO estão disponíveis no CS2.</li></ul>",
+        "about_the_game": "Ao longo de mais de duas décadas, o Counter‑Strike ofereceu uma experiência competitiva de elite, moldada por milhões de jogadores de todo o mundo. Agora, o próximo capítulo da história do CS está prestes a começar: Counter‑Strike 2.<br><br>O Counter‑Strike 2 é uma atualização gratuita para o CS:GO e representa o maior avanço técnico na história do Counter‑Strike. Criado no motor de jogo Source 2, o Counter‑Strike 2 é uma versão modernizada com renderização à base da física, comunicação em rede de ponta e ferramentas do Workshop melhoradas.<br><br>Para além da jogabilidade clássica centrada em objetivos que o Counter‑Strike deu a conhecer ao mundo em 1999, o Counter‑Strike 2 inclui:<br><br><ul class=\"bb_ul\"><li>Um novo Rating CS no modo Premier atualizado.<br></li><li>Tabelas de classificação globais e regionais.<br></li><li>Mapas melhorados e remodelados.<br></li><li>Granadas de fumo dinâmico, capazes de mudar por completo o rumo das partidas.<br></li><li>Jogabilidade independente do tickrate do servidor.<br></li><li>Sons e efeitos visuais renovados.<br></li><li>Todos os itens do CS:GO estão disponíveis no CS2.</li></ul>",
+        "short_description": "Ao longo de mais de duas décadas, o Counter‑Strike ofereceu uma experiência competitiva de elite, moldada por milhões de jogadores de todo o mundo. Agora, o próximo capítulo da história do CS está prestes a começar: Counter‑Strike 2.",
+        "supported_languages": "Checo, Dinamarquês, Holandês, Inglês<strong>*</strong>, Finlandês, Francês, Alemão, Húngaro, Italiano, Japonês, Coreano, Norueguês, Polaco, Português (Portugal), Português (Brasil), Romeno, Russo, Chinês simplificado, Espanhol (Espanha), Sueco, Tailandês, Chinês tradicional, Turco, Búlgaro, Ucraniano, Grego, Espanhol (América Latina), Vietnamita, Indonésio<br><strong>*</strong>idiomas com suporte total de áudio",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1789251637",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_231x87.jpg?t=1789251637",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_184x69.jpg?t=1789251637",
+        "website": "http://counter-strike.net/",
+        "pc_requirements": {
+          "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Windows® 10<br></li><li><strong>Processador:</strong> Processador com 4 threads - Intel® Core™ i5 750 ou superior<br></li><li><strong>Memória:</strong> 8 GB de RAM<br></li><li><strong>Placa gráfica:</strong> A placa gráfica deve ter, no mínimo, 1 GB e ser compatível com DirectX 11 e Shader Model 5.0<br></li><li><strong>DirectX:</strong> Versão 11<br></li><li><strong>Espaço no disco:</strong> Requer 85 GB de espaço livre</li></ul>"
+        },
+        "mac_requirements": {
+          "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> macOS 10.11 (El Capitan) ou mais recente<br></li><li><strong>Processador:</strong> Processador Intel Core Duo (2 GHz ou superior)<br></li><li><strong>Memória:</strong> 2 GB de RAM<br></li><li><strong>Placa gráfica:</strong> ATI Radeon HD 2400 ou superior / NVIDIA 8600M ou superior<br></li><li><strong>Espaço no disco:</strong> Requer 15 GB de espaço livre</li></ul>"
+        },
+        "linux_requirements": {
+          "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Ubuntu 20.04<br></li><li><strong>Processador:</strong> Processador com 4 threads - Intel® Core™ i5 750 ou superior<br></li><li><strong>Memória:</strong> 8 GB de RAM<br></li><li><strong>Placa gráfica:</strong> AMD GCN+ ou NVIDIA Kepler+ com drivers para Vulkan atualizados. Compatibilidade com VK_EXT_graphics_pipeline_library altamente recomendada.<br></li><li><strong>Espaço no disco:</strong> Requer 85 GB de espaço livre<br></li><li><strong>Placa de som:</strong> Altamente recomendada</li></ul>"
+        },
+        "developers": [
+          "Valve"
+        ],
+        "publishers": [
+          "Valve"
+        ],
+        "packages": [
+          298963,
+          329385,
+          54029
+        ],
+        "package_groups": [
+          {
+            "name": "default",
+            "title": "Comprar Counter-Strike 2",
+            "description": "",
+            "selection_text": "Seleciona uma opção de compra",
+            "save_text": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "subs": [
+              {
+                "packageid": 298963,
+                "percent_savings_text": " ",
+                "percent_savings": 0,
+                "option_text": "Counter-Strike 2 - Grátis",
+                "option_description": "",
+                "can_get_free_license": "0",
+                "is_free_license": true,
+                "price_in_cents_with_discount": 0
+              },
+              {
+                "packageid": 54029,
+                "percent_savings_text": " ",
+                "percent_savings": 0,
+                "option_text": "Upgrade para Estatuto Prime - R$ 74,99",
+                "option_description": "",
+                "can_get_free_license": "0",
+                "is_free_license": false,
+                "price_in_cents_with_discount": 7499
+              }
+            ]
+          }
+        ],
+        "platforms": {
+          "windows": true,
+          "mac": false,
+          "linux": true
+        },
+        "categories": [
+          {
+            "id": 1,
+            "description": "Multijogador"
+          },
+          {
+            "id": 27,
+            "description": "Multijogador interplataformas"
+          },
+          {
+            "id": 29,
+            "description": "Cartas Colecionáveis Steam"
+          },
+          {
+            "id": 51,
+            "description": "Steam Workshop"
+          },
+          {
+            "id": 30,
+            "description": "Steam Workshop"
+          },
+          {
+            "id": 35,
+            "description": "Microtransações"
+          },
+          {
+            "id": 64,
+            "description": "Tamanho do texto ajustável"
+          },
+          {
+            "id": 67,
+            "description": "Conforto de câmara"
+          },
+          {
+            "id": 66,
+            "description": "Alternativas de cores"
+          },
+          {
+            "id": 68,
+            "description": "Controlos de volume independentes"
+          },
+          {
+            "id": 74,
+            "description": "Jogável sem necessitar de ações rápidas ou precisas"
+          },
+          {
+            "id": 69,
+            "description": "Som estéreo"
+          },
+          {
+            "id": 70,
+            "description": "Som surround"
+          },
+          {
+            "id": 8,
+            "description": "Com VAC ativo"
+          },
+          {
+            "id": 15,
+            "description": "Estatísticas"
+          },
+          {
+            "id": 41,
+            "description": "Remote Play no telemóvel"
+          },
+          {
+            "id": 42,
+            "description": "Remote Play no tablet"
+          },
+          {
+            "id": 43,
+            "description": "Remote Play na TV"
+          },
+          {
+            "id": 63,
+            "description": "Steam Timeline"
+          }
+        ],
+        "genres": [
+          {
+            "id": "1",
+            "description": "Ação"
+          },
+          {
+            "id": "37",
+            "description": "Grátis para Jogar"
+          }
+        ],
+        "screenshots": [
+          {
+            "id": 0,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0/ss_9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0/ss_9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 1,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/4ef95eed5fcd98c576bf13e024bc6c845b622132/ss_4ef95eed5fcd98c576bf13e024bc6c845b622132.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/4ef95eed5fcd98c576bf13e024bc6c845b622132/ss_4ef95eed5fcd98c576bf13e024bc6c845b622132.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 2,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 3,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 4,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 5,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_76f6730dbb911650ba1f41c8e5b4bac638b5beea.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_76f6730dbb911650ba1f41c8e5b4bac638b5beea.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 6,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_808cdd373d78c3cf3a78e7026ebb1a15895e0670.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_808cdd373d78c3cf3a78e7026ebb1a15895e0670.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 7,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef98db5d5a4d877531a5567df082b0fb62d75c80.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef98db5d5a4d877531a5567df082b0fb62d75c80.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 8,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_2254a50f27951fb9028bc00b93a7f2ed7aac1e13.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_2254a50f27951fb9028bc00b93a7f2ed7aac1e13.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 9,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_54b9c26b028c84d5f8a5316f31ae6203953ed84d.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_54b9c26b028c84d5f8a5316f31ae6203953ed84d.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 10,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_1b3b5fd437939a7ed00a2155269e78994cb998d3.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_1b3b5fd437939a7ed00a2155269e78994cb998d3.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 11,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_352666c1949ce3966bd966d6ea5a1afd532257bc.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_352666c1949ce3966bd966d6ea5a1afd532257bc.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 12,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_63d2733b9b4ace01a41d5ba8afd653245d05d54a.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_63d2733b9b4ace01a41d5ba8afd653245d05d54a.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 13,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_fe70d46859593aef623a0614f4686e2814405035.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_fe70d46859593aef623a0614f4686e2814405035.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 14,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_bb2af3e83ac0385ff2055f2ab9697cdd83e351b7.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_bb2af3e83ac0385ff2055f2ab9697cdd83e351b7.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 15,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_fb8e5e2ae29ce64e2898315c66b5db08989e8f91.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_fb8e5e2ae29ce64e2898315c66b5db08989e8f91.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 16,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0db84c628a798e38ca57d69abda119bee1358008.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0db84c628a798e38ca57d69abda119bee1358008.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 17,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_18e9ea2715f0407ee05e206073927a648db60d73.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_18e9ea2715f0407ee05e206073927a648db60d73.1920x1080.jpg?t=1789251637"
+          },
+          {
+            "id": 18,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_2514675f364079b754b820cbc8b2e7c331d56a26.600x338.jpg?t=1789251637",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_2514675f364079b754b820cbc8b2e7c331d56a26.1920x1080.jpg?t=1789251637"
+          }
+        ],
+        "movies": [
+          {
+            "id": 256972298,
+            "name": "Launch Trailer",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256972298/movie.293x165.jpg?t=1696005467",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/730/612468/aa5a28c78f12232e6b6839034550c28b162fad3e/1748810724/dash_av1.mpd?t=1696005467",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/730/612468/aa5a28c78f12232e6b6839034550c28b162fad3e/1748810724/dash_h264.mpd?t=1696005467",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/730/612468/aa5a28c78f12232e6b6839034550c28b162fad3e/1748810724/hls_264_master.m3u8?t=1696005467",
+            "highlight": true
+          },
+          {
+            "id": 256970298,
+            "name": "Moving Beyond Tick Rate",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256970298/movie.293x165.jpg?t=1696005475",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/730/608984/a3ae9d5b8de21282056059ca5e851a063a253a55/1748810722/dash_av1.mpd?t=1696005475",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/730/608984/a3ae9d5b8de21282056059ca5e851a063a253a55/1748810722/dash_h264.mpd?t=1696005475",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/730/608984/a3ae9d5b8de21282056059ca5e851a063a253a55/1748810722/hls_264_master.m3u8?t=1696005475",
+            "highlight": true
+          },
+          {
+            "id": 256969703,
+            "name": "Leveling Up",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256969703/movie.293x165.jpg?t=1696005483",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/730/607867/ed6e0afecb45c615095cf8d84cec9d31659a3cc7/1748810722/dash_av1.mpd?t=1696005483",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/730/607867/ed6e0afecb45c615095cf8d84cec9d31659a3cc7/1748810722/dash_h264.mpd?t=1696005483",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/730/607867/ed6e0afecb45c615095cf8d84cec9d31659a3cc7/1748810722/hls_264_master.m3u8?t=1696005483",
+            "highlight": true
+          },
+          {
+            "id": 256969690,
+            "name": "Responsive Smokes",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256969690/movie.293x165.jpg?t=1696005491",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/730/607847/d73c6346bc3bf5dbc6d66a8f721bab640fa3d37c/1748810721/dash_av1.mpd?t=1696005491",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/730/607847/d73c6346bc3bf5dbc6d66a8f721bab640fa3d37c/1748810721/dash_h264.mpd?t=1696005491",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/730/607847/d73c6346bc3bf5dbc6d66a8f721bab640fa3d37c/1748810721/hls_264_master.m3u8?t=1696005491",
+            "highlight": true
+          }
+        ],
+        "recommendations": {
+          "total": 5275983
+        },
+        "achievements": {
+          "total": 1,
+          "highlighted": [
+            {
+              "icon": "f75dd04fa12445a8ec43be65fa16ff1b8d2bf82e.jpg",
+              "localized_name": "Um novo começo",
+              "archived": 0,
+              "hidden": 1,
+              "name": "Um novo começo",
+              "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/730/f75dd04fa12445a8ec43be65fa16ff1b8d2bf82e.jpg"
+            }
+          ]
+        },
+        "release_date": {
+          "coming_soon": false,
+          "date": "21 ago. 2012"
+        },
+        "support_info": {
+          "url": "",
+          "email": ""
+        },
+        "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/730?t=1789251637",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/page_bg_raw.jpg?t=1789251637",
+        "content_descriptors": {
+          "ids": [
+            2,
+            5
+          ],
+          "notes": "Inclui violência intensa e sangue."
+        },
+        "ratings": {
+          "usk": {
+            "rating": "16",
+            "descriptors": "Gewalt; In-Game Käufe (+zufällige Objekte); Chats"
+          },
+          "agcom": {
+            "rating": "16",
+            "descriptors": "Violenza"
+          },
+          "cadpa": {
+            "rating": "12"
+          },
+          "dejus": {
+            "rating": "16",
+            "descriptors": "Violência"
+          },
+          "steam_germany": {
+            "rating_generated": "1",
+            "rating": "16",
+            "required_age": "16",
+            "banned": "0",
+            "use_age_gate": "0",
+            "descriptors": "Drastische Gewalt"
+          },
+          "igrs": {
+            "rating_generated": "1",
+            "rating": "18",
+            "required_age": "18",
+            "banned": "0",
+            "use_age_gate": "0",
+            "descriptors": "Interaksi Daring\nKekerasan"
+          },
+          "steam_australia": {
+            "rating_generated": "1",
+            "rating": "MA15",
+            "required_age": "16",
+            "banned": "0",
+            "use_age_gate": "0",
+            "descriptors": "Strong Violence\nMild themes"
+          }
+        }
+      }
+    }
+  }
+}

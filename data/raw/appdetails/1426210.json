@@ -1,0 +1,395 @@
+{
+  "collected_at": "2026-09-20T21:04:04.252014+00:00",
+  "url": "https://store.steampowered.com/api/appdetails",
+  "params": {
+    "appids": 1426210,
+    "l": "portuguese"
+  },
+  "response": {
+    "1426210": {
+      "success": true,
+      "data": {
+        "type": "game",
+        "name": "It Takes Two",
+        "steam_appid": 1426210,
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": [
+          4110940
+        ],
+        "detailed_description": "Entra na aventura mais louca da tua vida em It Takes Two, um novo género de aventura de plataforma, criado exclusivamente para Coop. Convida um amigo para jogar gratuitamente com o Passe de Amigo* e trabalha em conjunto em toda a variedade de desafios de jogo alegres e inquietantes. Joga com o casal em confronto, Cody e May, dois humanos transformados em bonecos por um feitiço mágico. Em conjunto, presos num mundo fantástico em que o imprevisível está ao virar da esquina, são recorrentemente desafiados pela salvação do seu relacionamento fraturado. <br><br>Domina as habilidades de personagens únicas e associadas em todos os novos níveis. Ajudem-se mutuamente através de obstáculos inesperados e momentos hilariantes. Chuta as caudas peludas de esquilos mafiosos, pilota um par de cuecas, sê DJ num clube noturno agitado e desliza de trenó através de um globo de neve mágico. Abraça uma história sincera e hilariante onde a narrativa e a jogabilidade tecem uma experiência única e metafórica.    <br><br>It Takes Two é desenvolvido pelo estúdio premiado, Hazelight, líder da indústria de jogo cooperativo. Estão prestes a levar-te numa aventura maravilhosa onde apenas uma coisa é certa: somos melhores juntos.<br><br><strong>CARACTERÍSTICAS PRINCIPAIS</strong><br><br><ul class=\"bb_ul\"><li><strong>Pura perfeição cooperativa</strong> — Convida um amigo a jogar gratuitamente com o Remote Play Together** e vive uma aventura entusiasmante contruída puramente para dois. Escolhe entre jogar no sofá ou em coop. online com ecrã dividido e enfrenta desafios constantes onde a única forma de os superar é trabalhando em conjunto.<br><br></li><li><strong>Jogabilidade fluída e inquietante</strong> — Desde os aspiradores a vácuo aos gurus do amor, nunca sabes o que enfrentarás a seguir. Repleto de desafios inovadores no género e de novas capacidades de personagem para dominares em todos os níveis, vive uma fusão metafórica de jogabilidade e narrativa que superam a fronteira da narrativa interativa. <br><br></li><li><strong>Um Conto Universal de Relacionamentos</strong> — Descobre uma história comovente e sincera sobre os desafios da boa convivência. Ajuda Cody e May a saber como superar as suas incompatibilidades. Conhece um elenco diversificado de personagens estranhas e cativantes. Junta forças e segue numa aventura que irás apreciar em conjunto!</li></ul><strong>ACERCA DE HAZELIGHT</strong><br>Hazelight é um estúdio de desenvolvimento de jogos independente e premiado com base em Estocolmo, na Suécia. Fundado em 2014 por Josef Fares (realizador de cinema e criador do premiado jogo Brothers: A Tale of Two Sons), Hazelight empenha-se a superar os limites criativos do que é possível nos jogos. Em 2018, Hazelight lançou o jogo vencedor de um BAFTA - A Way Out - o primeiro jogo de sempre cooperativo e de aventura de ação na terceira pessoa — como parte do programa EA Originals.   <br><br><strong>ACERCA DO EA ORIGINALS</strong><br>O EA Originals ajuda a iluminar alguns dos mais apaixonados, independentes e talentosos estúdios de jogos do mundo inteiro. Descobre experiências inovadoras e inesquecíveis de jogos de fabricantes de jogos altamente criativos que adoram encantar e inspirar.",
+        "about_the_game": "Entra na aventura mais louca da tua vida em It Takes Two, um novo género de aventura de plataforma, criado exclusivamente para Coop. Convida um amigo para jogar gratuitamente com o Passe de Amigo* e trabalha em conjunto em toda a variedade de desafios de jogo alegres e inquietantes. Joga com o casal em confronto, Cody e May, dois humanos transformados em bonecos por um feitiço mágico. Em conjunto, presos num mundo fantástico em que o imprevisível está ao virar da esquina, são recorrentemente desafiados pela salvação do seu relacionamento fraturado. <br><br>Domina as habilidades de personagens únicas e associadas em todos os novos níveis. Ajudem-se mutuamente através de obstáculos inesperados e momentos hilariantes. Chuta as caudas peludas de esquilos mafiosos, pilota um par de cuecas, sê DJ num clube noturno agitado e desliza de trenó através de um globo de neve mágico. Abraça uma história sincera e hilariante onde a narrativa e a jogabilidade tecem uma experiência única e metafórica.    <br><br>It Takes Two é desenvolvido pelo estúdio premiado, Hazelight, líder da indústria de jogo cooperativo. Estão prestes a levar-te numa aventura maravilhosa onde apenas uma coisa é certa: somos melhores juntos.<br><br><strong>CARACTERÍSTICAS PRINCIPAIS</strong><br><br><ul class=\"bb_ul\"><li><strong>Pura perfeição cooperativa</strong> — Convida um amigo a jogar gratuitamente com o Remote Play Together** e vive uma aventura entusiasmante contruída puramente para dois. Escolhe entre jogar no sofá ou em coop. online com ecrã dividido e enfrenta desafios constantes onde a única forma de os superar é trabalhando em conjunto.<br><br></li><li><strong>Jogabilidade fluída e inquietante</strong> — Desde os aspiradores a vácuo aos gurus do amor, nunca sabes o que enfrentarás a seguir. Repleto de desafios inovadores no género e de novas capacidades de personagem para dominares em todos os níveis, vive uma fusão metafórica de jogabilidade e narrativa que superam a fronteira da narrativa interativa. <br><br></li><li><strong>Um Conto Universal de Relacionamentos</strong> — Descobre uma história comovente e sincera sobre os desafios da boa convivência. Ajuda Cody e May a saber como superar as suas incompatibilidades. Conhece um elenco diversificado de personagens estranhas e cativantes. Junta forças e segue numa aventura que irás apreciar em conjunto!</li></ul><strong>ACERCA DE HAZELIGHT</strong><br>Hazelight é um estúdio de desenvolvimento de jogos independente e premiado com base em Estocolmo, na Suécia. Fundado em 2014 por Josef Fares (realizador de cinema e criador do premiado jogo Brothers: A Tale of Two Sons), Hazelight empenha-se a superar os limites criativos do que é possível nos jogos. Em 2018, Hazelight lançou o jogo vencedor de um BAFTA - A Way Out - o primeiro jogo de sempre cooperativo e de aventura de ação na terceira pessoa — como parte do programa EA Originals.   <br><br><strong>ACERCA DO EA ORIGINALS</strong><br>O EA Originals ajuda a iluminar alguns dos mais apaixonados, independentes e talentosos estúdios de jogos do mundo inteiro. Descobre experiências inovadoras e inesquecíveis de jogos de fabricantes de jogos altamente criativos que adoram encantar e inspirar.",
+        "short_description": "Entra na caminhada mais louca da tua vida em It Takes Two. Convida um amigo para jogar gratuitamente com o Passe de Amigo* e trabalha em conjunto em toda a variedade de desafios de jogo alegres e inquietantes.",
+        "supported_languages": "Inglês<strong>*</strong>, Francês<strong>*</strong>, Italiano, Alemão<strong>*</strong>, Espanhol (Espanha)<strong>*</strong>, Japonês<strong>*</strong>, Coreano, Polaco, Português (Brasil), Russo, Chinês simplificado, Chinês tradicional<br><strong>*</strong>idiomas com suporte total de áudio",
+        "reviews": "“A roaring success.  Hazelight's biggest triumph.  An expertly designed cooperative experience.”<br>9.25/10 – Game Informer<br><br>“Makes the most of what it means to offer truly co-operative gameplay”<br>5/5 – GamesRadar+<br><br>“It Takes Two is the best co-op game since Portal 2”<br>4.5/5 – TheGamer<br>",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_231x87.jpg?t=1777395376",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_184x69.jpg?t=1777395376",
+        "website": "https://www.ea.com/games/it-takes-two",
+        "pc_requirements": {
+          "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li>Requer um sistema operativo e processador de 64 bits<br></li><li><strong>Sistema Operativo *:</strong> Windows 8.1 64-bit or Windows 10 64-bit<br></li><li><strong>Processador:</strong> Intel Core i3-2100T or AMD FX 6100<br></li><li><strong>Memória:</strong> 8 GB de RAM<br></li><li><strong>Placa gráfica:</strong> Nvidia GeForce GTX 660 or AMD R7 260x<br></li><li><strong>DirectX:</strong> Versão 11<br></li><li><strong>Rede:</strong> Ligação à Internet de banda larga<br></li><li><strong>Espaço no disco:</strong> Requer 50 GB de espaço livre</li></ul>",
+          "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li>Requer um sistema operativo e processador de 64 bits<br></li><li><strong>Sistema Operativo *:</strong> Windows 8.1 64-bit or Windows 10 64-bit<br></li><li><strong>Processador:</strong> Intel Core i5 3570K or AMD Ryzen 3 1300x<br></li><li><strong>Memória:</strong> 16 GB de RAM<br></li><li><strong>Placa gráfica:</strong> Nvidia GeForce GTX 980 or AMD R9 290X<br></li><li><strong>DirectX:</strong> Versão 11<br></li><li><strong>Rede:</strong> Ligação à Internet de banda larga<br></li><li><strong>Espaço no disco:</strong> Requer 50 GB de espaço livre</li></ul>"
+        },
+        "mac_requirements": {
+          "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"></ul>",
+          "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "linux_requirements": {
+          "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"></ul>",
+          "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "legal_notice": "PARA JOGAR, PODE SER NECESSÁRIO TER UMA LIGAÇÃO À INTERNET, UMA CONTA EA, UMA CONTA STEAM, ACEITAR O CONTRATO DO UTILIZADOR DA EA (terms.ea.com/pt) E REGISTAR O CÓDIGO DE UTILIZAÇÃO ÚNICA DO PRODUTO. A POLÍTICA DE PRIVACIDADE E DE COOKIES DA EA SE APLICA AO TEU USO DOS SERVIÇOS DA EA. VER MAIS DETALHES DO PRODUTO FINAL E TECNOLOGIA DE PROTECÇÃO DE CONTEÚDOS EM www.ea.com/legal-pt, SE E QUANDO DISPONÍVEL. PARA JOGAR É NECESSÁRIO ASSOCIAR A SUA CONTA EA E A CONTA STEAM; A EA IRÁ PARTILHAR O SEU ID DE CONTA E O JOGO INDIVIDUAL E REGISTOS DE JOGO COM O STEAM PARA VALIDAR A SUA COMPRA E/OU UM PEDIDO DE REEMBOLSO. PODE SER NECESSÁRIO TER 13 ANOS PARA ACEDER ÀS FUNCIONALIDADES ONLINE. AS ATUALIZAÇÕES DE CONTEÚDO OBRIGATÓRIAS PODEM SER TRANSFERIDAS AUTOMATICAMENTE, PODEM NECESSITAR DE ARMAZENAMENTO ADICIONAL E PODEM INCORRER EM TAXAS DE UTILIZAÇÃO DE LARGURA DE BANDA. A EA PODE DESCONTINUAR FUNCIONALIDADES ONLINE, MEDIANTE PRÉ-AVISO DE 30 DIAS PUBLICADO EM www.ea.com/service-updates.<br />\r\n<br />\r\nContrato do Utilizador da EA: terms.ea.com/de para residentes na Alemanha e terms.ea.com/pt para todos os residentes nos restantes países.<br />\r\nPolítica de Privacidade e de Cookies da EA: privacy.ea.com/de para residentes na Alemanha e privacy.ea.com/pt para todos os residentes nos restantes países.<br />\r\n<br />\r\n*O Passe de Amigo requer a instalação do Passe de Amigo Avaliação Grátis e um Amigo online que seja proprietário do jogo na mesma plataforma e/ou plataforma da próxima geração<br />\r\n**Remote Play Together requer acesso ao recurso Remote Play Together e um Amigo online que seja proprietário do jogo no Steam<br />\r\n<br />\r\n© 2021 Hazelight Studios AB. Todos os direitos reservados. IT TAKES TWO é uma marca comercial da Hazelight Studios AB. EA e o logótipo EA são marcas comerciais da Electronic Arts Inc.",
+        "ext_user_account_notice": "EA Account (for online play) (permite interligar à conta Steam)",
+        "developers": [
+          "Hazelight Studios"
+        ],
+        "publishers": [
+          "Electronic Arts"
+        ],
+        "price_overview": {
+          "currency": "BRL",
+          "initial": 19900,
+          "final": 5970,
+          "discount_percent": 70,
+          "initial_formatted": "R$ 199,00",
+          "final_formatted": "R$ 59,70"
+        },
+        "packages": [
+          1075472,
+          500812
+        ],
+        "package_groups": [
+          {
+            "name": "default",
+            "title": "Comprar It Takes Two",
+            "description": "",
+            "selection_text": "Seleciona uma opção de compra",
+            "save_text": "",
+            "display_type": 0,
+            "is_recurring_subscription": "false",
+            "subs": [
+              {
+                "packageid": 1075472,
+                "percent_savings_text": " ",
+                "percent_savings": 0,
+                "option_text": "It Takes Two - Friend's Pass - Grátis",
+                "option_description": "",
+                "can_get_free_license": "0",
+                "is_free_license": true,
+                "price_in_cents_with_discount": 0
+              },
+              {
+                "packageid": 500812,
+                "percent_savings_text": " -70%",
+                "percent_savings": 0,
+                "option_text": "It Takes Two - <span class=\"discount_original_price\">R$ 199,00</span> R$ 59,70",
+                "option_description": "",
+                "can_get_free_license": "0",
+                "is_free_license": false,
+                "price_in_cents_with_discount": 5970
+              }
+            ]
+          }
+        ],
+        "platforms": {
+          "windows": true,
+          "mac": false,
+          "linux": false
+        },
+        "metacritic": {
+          "score": 89,
+          "url": "https://www.metacritic.com/game/pc/it-takes-two?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+          {
+            "id": 1,
+            "description": "Multijogador"
+          },
+          {
+            "id": 9,
+            "description": "Co-op"
+          },
+          {
+            "id": 38,
+            "description": "Co-op online"
+          },
+          {
+            "id": 39,
+            "description": "Co-op, ecrã partilhado/dividido"
+          },
+          {
+            "id": 24,
+            "description": "Ecrã partilhado/dividido"
+          },
+          {
+            "id": 22,
+            "description": "Proezas Steam"
+          },
+          {
+            "id": 28,
+            "description": "Compatibilidade total com comando"
+          },
+          {
+            "id": 29,
+            "description": "Cartas Colecionáveis Steam"
+          },
+          {
+            "id": 55,
+            "description": "Compatibilidade com DUALSHOCK"
+          },
+          {
+            "id": 57,
+            "description": "Compatibilidade com DualSense"
+          },
+          {
+            "id": 69,
+            "description": "Som estéreo"
+          },
+          {
+            "id": 70,
+            "description": "Som surround"
+          },
+          {
+            "id": 23,
+            "description": "Steam Cloud"
+          },
+          {
+            "id": 44,
+            "description": "Remote Play Together"
+          }
+        ],
+        "genres": [
+          {
+            "id": "1",
+            "description": "Ação"
+          },
+          {
+            "id": "25",
+            "description": "Aventura"
+          }
+        ],
+        "screenshots": [
+          {
+            "id": 0,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_3e59753eefaba9a7704a18e902b48e8d38e95e0b.600x338.jpg?t=1777395376",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_3e59753eefaba9a7704a18e902b48e8d38e95e0b.1920x1080.jpg?t=1777395376"
+          },
+          {
+            "id": 1,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6e987a0678b013bfd0073a9ac4703e1f04ca4dea.600x338.jpg?t=1777395376",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6e987a0678b013bfd0073a9ac4703e1f04ca4dea.1920x1080.jpg?t=1777395376"
+          },
+          {
+            "id": 2,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_fdac523e3ea4d2f32a44449bb8c224857563bd7d.600x338.jpg?t=1777395376",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_fdac523e3ea4d2f32a44449bb8c224857563bd7d.1920x1080.jpg?t=1777395376"
+          },
+          {
+            "id": 3,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_4a62bc8fa398fc5b2094a6225dc5ecff9485f824.600x338.jpg?t=1777395376",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_4a62bc8fa398fc5b2094a6225dc5ecff9485f824.1920x1080.jpg?t=1777395376"
+          },
+          {
+            "id": 4,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_a15164ddd357ab3c0b2aff575a6b215b2d91b406.600x338.jpg?t=1777395376",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_a15164ddd357ab3c0b2aff575a6b215b2d91b406.1920x1080.jpg?t=1777395376"
+          },
+          {
+            "id": 5,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_d7a931229cbf1cc25975bb5860cbde5b9bbc826a.600x338.jpg?t=1777395376",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_d7a931229cbf1cc25975bb5860cbde5b9bbc826a.1920x1080.jpg?t=1777395376"
+          },
+          {
+            "id": 6,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6f7b65b8613afbcb2616bff8ed0283d0629b6572.600x338.jpg?t=1777395376",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6f7b65b8613afbcb2616bff8ed0283d0629b6572.1920x1080.jpg?t=1777395376"
+          },
+          {
+            "id": 7,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6ce2d50261a94284c72164e2d6d3721fe2f00013.600x338.jpg?t=1777395376",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6ce2d50261a94284c72164e2d6d3721fe2f00013.1920x1080.jpg?t=1777395376"
+          }
+        ],
+        "movies": [
+          {
+            "id": 256827093,
+            "name": "Official Trailer",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256827093/movie.293x165.jpg?t=1616514535",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1426210/356092/0165ad2494097e40af29c015e8948175c3fb97a8/1750688156/dash_av1.mpd?t=1616514535",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1426210/356092/0165ad2494097e40af29c015e8948175c3fb97a8/1750688156/dash_h264.mpd?t=1616514535",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1426210/356092/0165ad2494097e40af29c015e8948175c3fb97a8/1750688156/hls_264_master.m3u8?t=1616514535",
+            "highlight": true
+          },
+          {
+            "id": 256825938,
+            "name": "#5",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256825938/movie.293x165.jpg?t=1615809022",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1426210/354187/6ff654f630353840eb67702884d2d7827c676457/1750686862/dash_av1.mpd?t=1615809022",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1426210/354187/6ff654f630353840eb67702884d2d7827c676457/1750686862/dash_h264.mpd?t=1615809022",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1426210/354187/6ff654f630353840eb67702884d2d7827c676457/1750686862/hls_264_master.m3u8?t=1615809022",
+            "highlight": true
+          },
+          {
+            "id": 256813190,
+            "name": "Friends Pass",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256813190/movie.293x165.jpg?t=1607655633",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1426210/332824/ea5dc1a28710c18ca33602ef0a6b2dfe06693142/1750686858/dash_av1.mpd?t=1607655633",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1426210/332824/ea5dc1a28710c18ca33602ef0a6b2dfe06693142/1750686858/dash_h264.mpd?t=1607655633",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1426210/332824/ea5dc1a28710c18ca33602ef0a6b2dfe06693142/1750686858/hls_264_master.m3u8?t=1607655633",
+            "highlight": true
+          },
+          {
+            "id": 256813189,
+            "name": "Reveal",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256813189/movie.293x165.jpg?t=1607655625",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1426210/332823/5130787ad6a22c30c84b2f33f4b990878dfa2b33/1750686827/dash_av1.mpd?t=1607655625",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1426210/332823/5130787ad6a22c30c84b2f33f4b990878dfa2b33/1750686827/dash_h264.mpd?t=1607655625",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1426210/332823/5130787ad6a22c30c84b2f33f4b990878dfa2b33/1750686827/hls_264_master.m3u8?t=1607655625",
+            "highlight": true
+          }
+        ],
+        "recommendations": {
+          "total": 218658
+        },
+        "achievements": {
+          "total": 20,
+          "highlighted": [
+            {
+              "icon": "785537e13a8c7231a63e8d8fa8bd64a060a06b49.jpg",
+              "localized_name": "It Took Two",
+              "archived": 0,
+              "hidden": 0,
+              "name": "It Took Two",
+              "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1426210/785537e13a8c7231a63e8d8fa8bd64a060a06b49.jpg"
+            },
+            {
+              "icon": "5d2d27c5682f61c5809da7675a6090853ed64778.jpg",
+              "localized_name": "Minigame Megalomania",
+              "archived": 0,
+              "hidden": 0,
+              "name": "Minigame Megalomania",
+              "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1426210/5d2d27c5682f61c5809da7675a6090853ed64778.jpg"
+            },
+            {
+              "icon": "3f57e101c13e1fd9bcfbaf8da2c847248577a8c6.jpg",
+              "localized_name": "Fried Friendship",
+              "archived": 0,
+              "hidden": 0,
+              "name": "Fried Friendship",
+              "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1426210/3f57e101c13e1fd9bcfbaf8da2c847248577a8c6.jpg"
+            },
+            {
+              "icon": "0e2c267a7f73173534e0a56756d7ae2e166f8050.jpg",
+              "localized_name": "Struck A Pose",
+              "archived": 0,
+              "hidden": 0,
+              "name": "Struck A Pose",
+              "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1426210/0e2c267a7f73173534e0a56756d7ae2e166f8050.jpg"
+            },
+            {
+              "icon": "9ef1046ecc336e6e1e1bd56a61347f0a0fca42c6.jpg",
+              "localized_name": "Plastic Prison Breakers",
+              "archived": 0,
+              "hidden": 1,
+              "name": "Plastic Prison Breakers",
+              "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1426210/9ef1046ecc336e6e1e1bd56a61347f0a0fca42c6.jpg"
+            },
+            {
+              "icon": "8be6a325eae714b47628701e4b526f7fcddd6788.jpg",
+              "localized_name": "Faraway Frequencies",
+              "archived": 0,
+              "hidden": 0,
+              "name": "Faraway Frequencies",
+              "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1426210/8be6a325eae714b47628701e4b526f7fcddd6788.jpg"
+            },
+            {
+              "icon": "602ee8c20ef1d17c7e4428a85b3cbcbc78843df4.jpg",
+              "localized_name": "Look At Him Go",
+              "archived": 0,
+              "hidden": 0,
+              "name": "Look At Him Go",
+              "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1426210/602ee8c20ef1d17c7e4428a85b3cbcbc78843df4.jpg"
+            },
+            {
+              "icon": "73615a803a982b0d2d4d6ade80a710a69c97ae5d.jpg",
+              "localized_name": "Break the Bank",
+              "archived": 0,
+              "hidden": 0,
+              "name": "Break the Bank",
+              "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1426210/73615a803a982b0d2d4d6ade80a710a69c97ae5d.jpg"
+            },
+            {
+              "icon": "c0a8abfe121396d38573aa7f1dff601585a6faad.jpg",
+              "localized_name": "A Daring Devil",
+              "archived": 0,
+              "hidden": 0,
+              "name": "A Daring Devil",
+              "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1426210/c0a8abfe121396d38573aa7f1dff601585a6faad.jpg"
+            },
+            {
+              "icon": "d245f453b4704b1a97691ad3ae962bba7ba24dba.jpg",
+              "localized_name": "Snackosaurus",
+              "archived": 0,
+              "hidden": 0,
+              "name": "Snackosaurus",
+              "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1426210/d245f453b4704b1a97691ad3ae962bba7ba24dba.jpg"
+            }
+          ]
+        },
+        "release_date": {
+          "coming_soon": false,
+          "date": "25 mar. 2021"
+        },
+        "support_info": {
+          "url": "https://help.ea.com/",
+          "email": ""
+        },
+        "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1426210?t=1777395376",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/page_bg_raw.jpg?t=1777395376",
+        "content_descriptors": {
+          "ids": [],
+          "notes": null
+        },
+        "ratings": {
+          "dejus": {
+            "rating": "12",
+            "descriptors": "Inappropriate language \r\nViolence"
+          },
+          "esrb": {
+            "rating": "t",
+            "descriptors": "Animated Blood\r\nComic Mischief \r\nFantasy Violence\r\nLanguage",
+            "display_online_notice": "true",
+            "interactive_elements": "Users Interact"
+          },
+          "pegi": {
+            "rating": "12",
+            "descriptors": "Violence\r\nBad Language"
+          },
+          "usk": {
+            "rating": "12"
+          },
+          "oflc": {
+            "rating": "pg",
+            "descriptors": "Mild themes, violence and coarse language, online interactivity"
+          },
+          "nzoflc": {
+            "rating": "pg",
+            "descriptors": "Mild themes, violence and coarse language, online interactivity"
+          },
+          "kgrb": {
+            "rating": "12",
+            "descriptors": "Violence\r\nBad Language"
+          },
+          "fpb": {
+            "rating": "13"
+          },
+          "csrr": {
+            "rating": "C12",
+            "descriptors": "Contains or justifies violence"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+Nome,Descrição (Significado Semântico),Tipo de Dado,Unidade,Valores Possíveis / Categorias,Possíveis Problemas de Qualidade,Fonte,Uso no Projeto
+appid,ID do jogo (na Steam) ao qual a review pertence,Inteiro,-,"ex.: 730, 413150",injetado por nós durante a coleta (não vem por review na API),appreviews (injetado por nós),Chave de junção com a tabela de jogos
+recommendationid,ID único da review,Texto,-,string numérica,-,appreviews,Chave primária / deduplicação
+review,Texto completo da review,Texto,-,texto livre,"vazia ou só espaço; reviews muito curtas; só emoji / arte ASCII / copypasta; entidades HTML e caracteres de controle; mistura de idiomas",appreviews,Corpus (todas as tarefas de PLN)
+language,Idioma declarado pela Steam para a review,Categórico,-,"brazilian, english (coleta restrita a esses dois por decisão de projeto, via language=brazilian,english)",o idioma declarado pode não corresponder ao idioma real do texto,appreviews,Filtragem de idioma / seleção de stemmer e lematizador por idioma
+voted_up,Recomendação do autor,Booleano,-,"True = positiva, False = negativa",pode contradizer o texto (sarcasmo/ironia); classes bem desbalanceadas (~90% positivas na nossa amostra),appreviews,Rótulo para classificação de recomendação/sentimento
+timestamp_created,Data de criação da review,Data/Hora,UTC,-,precisa converter de Unix epoch com fuso horário,appreviews,Metadado exigido pela proposta; recortes temporais
+timestamp_updated,Data da última edição da review,Data/Hora,UTC,>= timestamp_created,uma review editada não corresponde mais ao texto original,appreviews,Detecção de reviews editadas
+votes_up,Número de votos de "útil",Inteiro,contagem,>= 0,enviesado pelo tempo de exposição (reviews antigas acumulam mais),appreviews,Ranking de relevância
+votes_funny,Número de votos de "engraçado",Inteiro,contagem,>= 0,funny alto + texto muito curto geralmente indica review de zoeira/spam,appreviews,Heurística anti-spam
+weighted_vote_score,Score interno de utilidade calculado pela Steam,Float,0-1,"0.0-1.0, retornado como string pela API",muitos valores iguais a 0; precisa converter para float,appreviews,Ranking de qualidade
+comment_count,Número de comentários na review,Inteiro,contagem,>= 0,-,appreviews,Sinal de engajamento
+steam_purchase,Se o jogo foi comprado na Steam,Booleano,-,"True/False",-,appreviews,Filtro de confiabilidade
+received_for_free,Se o jogo foi recebido de graça,Booleano,-,"True/False",possível viés de opinião,appreviews,Análise de viés
+refunded,Se a review é de uma compra reembolsada,Booleano,-,"True/False","campo não documentado oficialmente, observado nas respostas reais",appreviews,Filtragem
+written_during_early_access,Se a review foi escrita durante o Early Access,Booleano,-,"True/False",a opinião pode não refletir a versão atual do jogo,appreviews,Recorte temporal
+primarily_steam_deck,Se o usuário joga majoritariamente no Steam Deck,Booleano,-,"True/False",-,appreviews,Segmentação
+author_id_hash,Identificador pseudonimizado do autor da review,Texto,-,hash hexadecimal de 16 caracteres,derivado do steamid (dado pessoal) via SHA-256 para minimização de dados (LGPD),appreviews.author (hash aplicado por nós),Deduplicação por autor / heurísticas de spam sem expor dado pessoal
+author_num_games_owned,Número de jogos que o autor possui,Inteiro,contagem,>= 0,-,appreviews.author,Sinal de perfil do autor
+author_num_reviews,Número de reviews escritas pelo autor,Inteiro,contagem,>= 0,contagem muito baixa + votes_funny alto pode indicar conta de zoeira,appreviews.author,Heurística anti-spam
+author_playtime_at_review_hours,Horas jogadas no momento em que a review foi escrita,Float,horas (convertido de minutos),>= 0; pode ser 0,pode estar ausente/zerado em algumas contas,appreviews.author,Metadado exigido explicitamente pela proposta; feature para modelagem
+author_playtime_forever_hours,Total de horas jogadas até a data da coleta,Float,horas (convertido de minutos),>= 0,muda a cada nova coleta (não é fixo no momento da review),appreviews.author,Feature secundária
+name,Nome do jogo,Texto,-,texto,-,appdetails,Interpretabilidade / junção com as reviews
+short_description,Descrição curta (de marketing) do jogo,Texto,-,texto livre,-,appdetails,Embeddings em nível de jogo para recomendação/agentes
+genres,Gêneros do jogo,Texto (separado por vírgula),-,"ex.: Ação, RPG, Indie",granularidade inconsistente entre jogos,appdetails,Baseline para a tarefa de recomendação; classificação de assunto
+categories,Categorias/recursos do jogo na loja,Texto (separado por vírgula),-,"ex.: Multijogador, Um jogador, Co-op",-,appdetails,Metadado de contexto
+release_date,Data de lançamento do jogo,Texto,-,string de data localizada,não está em formato ISO; precisa de parsing,appdetails,Contexto temporal
+developers,Desenvolvedora(s) do jogo,Texto (separado por vírgula),-,texto,-,appdetails,Metadado
+publishers,Publicadora(s) do jogo,Texto (separado por vírgula),-,texto,-,appdetails,Metadado
+is_free,Se o jogo é gratuito,Booleano,-,"True/False",-,appdetails,Feature para a tarefa de classificação do assunto "preço"
+price_brl,Preço atual formatado em reais,Texto,BRL,"ex.: 'R$ 24,99' ou nulo se gratuito","string de moeda, não é um float limpo",appdetails,Feature para a tarefa de classificação do assunto "preço"
+metacritic_score,Nota da crítica no Metacritic,Float,0-100,0-100 ou ausente,muitos jogos não têm nota no Metacritic,appdetails,Sinal externo de validação
